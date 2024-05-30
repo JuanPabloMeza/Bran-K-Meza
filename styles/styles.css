@@ -1,0 +1,54 @@
+
+li a{
+    color: black;
+    text-decoration: none;
+}
+ul{
+    list-style-type: none;
+}
+
+section div{
+    width: 200px;
+    height: 200px;
+    background-color: cornflowerblue;
+    padding: 20px;
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+    border-right: 3px solid black;
+    border-left: 3px solid black;
+}
+.margin{
+    margin: 20px 15px;
+}
+.boton{
+    background-color: #9FA6A1;
+    border-radius: 7px;
+}
+.letranav h1{
+    font-family: "Aclonica", sans-serif;
+    font-weight: bold;
+	font-style: italic;
+	font-variant: small-caps;
+	letter-spacing: 1px;
+	text-align: left;
+}
+.fondonav{
+    background-color: #D0D8D9;
+}
+.fondocolor{
+    background-color: #F52D3B;
+}
+.cardstamaño{
+    width: 25rem;
+    padding: 3rem;
+}
+.encontratulook{
+    font-size: 25px;
+}
+.lugarcarousel{
+    margin-top: 30px;
+}
+.bienvenidos{
+    margin-top: 20px;
+    text-decoration: underline;
+}
