@@ -1,21 +1,9 @@
-
 li a{
     color: black;
     text-decoration: none;
 }
 ul{
     list-style-type: none;
-}
-
-section div{
-    width: 200px;
-    height: 200px;
-    background-color: cornflowerblue;
-    padding: 20px;
-    border-top: 3px solid black;
-    border-bottom: 3px solid black;
-    border-right: 3px solid black;
-    border-left: 3px solid black;
 }
 .margin{
     margin: 20px 15px;
@@ -33,14 +21,14 @@ section div{
 	text-align: left;
 }
 .fondonav{
-    background-color: #D0D8D9;
+    background-color: gainsboro;
 }
 .fondocolor{
-    background-color: #F52D3B;
+    background-color:whitesmoke;
 }
 .cardstamaño{
     width: 25rem;
-    padding: 3rem;
+    padding: 5rem;
 }
 .encontratulook{
     font-size: 25px;
@@ -51,4 +39,5 @@ section div{
 .bienvenidos{
     margin-top: 20px;
     text-decoration: underline;
+    font-family: "Aclonica", sans-serif;
 }
