@@ -41,3 +41,58 @@ ul{
     text-decoration: underline;
     font-family: "Aclonica", sans-serif;
 }
+.carousel-container{
+    margin: 0% auto;
+    max-width: 800px;
+}
+#carouselInicio{
+    width: 100%;
+    margin: 0% auto;
+    img{
+        width: 100%;
+        height: auto;
+        object-fit: cover;
+    }
+}
+section.container {
+    margin-top: 20px;
+  }
+  
+  .text-center {
+    text-align: center;
+  }
+  
+  .row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .col-md-6 {
+    flex-basis: 50%;
+    margin: 10px;
+  }
+  
+  footer {
+    margin-top: 10px;
+  }
+  .nuestroslocales {
+    .container {
+      max-width: 800px;
+      margin: 40px auto;
+    }
+    .row {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+    .col-md-6 {
+      flex-basis: 50%;
+      margin: 10px;
+    }
+    iframe {
+      border: 0;
+      width: 100%;
+      height: 300px;
+    }
+  }
