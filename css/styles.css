@@ -134,4 +134,12 @@ ul a {
   background-color: black;
 }
 
+.footer a:hover {
+  color: gainsboro;
+}
+
+.footer {
+  text-align: center;
+}
+
 /*# sourceMappingURL=styles.css.map */
