@@ -142,4 +142,13 @@ ul a {
   text-align: center;
 }
 
+.botonnegro {
+  background-color: black;
+  color: white;
+}
+
+.botonnegro:hover {
+  background-color: #ADD8E6;
+}
+
 /*# sourceMappingURL=styles.css.map */

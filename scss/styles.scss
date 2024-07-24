@@ -1,5 +1,7 @@
+$primary-color: black;
+
 li a {
-  color: black;
+  color: $primary-color;
   text-decoration: none;
 }
 
@@ -140,11 +142,18 @@ ul {
 }
 
 .carousel-arrow {
-  background-color: black;
+  background-color: $primary-color;
 }
 .footer a:hover {
   color: gainsboro;
 }
 .footer{
   text-align: center;
+}
+.botonnegro{
+  background-color: $primary-color;
+  color: white;
+}
+.botonnegro:hover{
+  background-color: #ADD8E6;
 }
